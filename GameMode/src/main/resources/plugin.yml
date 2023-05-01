@@ -1,0 +1,8 @@
+name: GameMode
+version: '1.0'
+main: ch.ksrminecraft.gamemode.GameMode
+api-version: 1.19
+
+commands:
+   heal:
+      description: Heals player

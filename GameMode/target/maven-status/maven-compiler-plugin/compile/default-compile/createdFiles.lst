@@ -1,0 +1,4 @@
+ch\ksrminecraft\gamemode\GameMode.class
+ch\ksrminecraft\gamemode\listeners\JoinQuitListener.class
+ch\ksrminecraft\gamemode\commands\HealCommand.class
+ch\ksrminecraft\gamemode\commands\TestCommand.class
